@@ -229,7 +229,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-content: baseline;
-  padding: 4px 50px 90px;
+  padding: 4px 52px 90px 50px;
 }
 
 .footer__menu-list {
@@ -242,4 +242,10 @@ body {
   display: flex;
   width: 240px;
   gap: 50px;
+}
+
+.footer__social-list-item {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
 }
